@@ -1,3 +1,4 @@
 # navi-october
-Hacktoberfest contributions
+Hacktoberfest contributions.
+
 Add any projects to contribute folder
